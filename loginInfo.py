@@ -1,2 +1,3 @@
-username ="mo_drahem"
-password ="MyP@$$W0rd"
+# add your instagram username and password 
+username ="" 
+password =""
